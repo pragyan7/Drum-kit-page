@@ -3,5 +3,5 @@ The Drum Kit project is an interactive web application that allows users to play
 
 # Features
 • Play different drum sounds using keyboard keys or on-screen buttons.
-• Visual feedback on key presses and button clicks.
+• Visual feedback on key presses, button clicks and animations.
 • Responsive design ensuring a seamless experience across various devices.
