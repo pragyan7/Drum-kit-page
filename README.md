@@ -1,4 +1,4 @@
-# Drum-kit-project (!! In-progress !!)
+# Drum-kit-project
 The Drum Kit project is an interactive web application that allows users to play drum sounds by pressing keys on their keyboard or clicking on the drum buttons displayed on the screen. Built with HTML, CSS, and JavaScript, this project demonstrates fundamental concepts of DOM manipulation, event handling, and audio playback in web development.
 
 # Features
